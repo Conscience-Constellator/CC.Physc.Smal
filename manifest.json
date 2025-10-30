@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Physc.Smal",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/CC.Physc.Smal",
+  "notes": "No mains"
+}
